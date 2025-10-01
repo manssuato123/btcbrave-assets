@@ -10,7 +10,7 @@ The project aims to provide a fair ecosystem for investors with **zero fees, a c
 - 📩 Email: contato@btcbrave.store  
 - 🐦 Twitter/X: [https://x.com/btcbrave_X](https://x.com/btcbrave_X)  
 - 💬 Telegram: [https://t.me/BTCBRAVE_Token](https://t.me/BTCBRAVE_Token)  
-- 🎮 Discord: [https://discord.gg/nBvPWHWa](https://discord.gg/nBvPWHWa)  
+- 🎮 Discord: [https://discord.gg/nBvPWHWa](https://discord.gg/QwrC6Ngx4y)  
 - 📊 DEXTools: [https://www.dextools.io/app/en/bnb/pair-explorer/0xe437176a0ac7a94670631924f12afff370494ffc](https://www.dextools.io/app/en/bnb/pair-explorer/0xe437176a0ac7a94670631924f12afff370494ffc)  
 
 ---
